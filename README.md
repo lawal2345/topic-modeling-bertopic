@@ -17,6 +17,3 @@ Hierarchical clustering showing topic relationships
 ### Documents and their Topics
 <img width="1200" height="750" alt="documents and topics" src="https://github.com/user-attachments/assets/a5eeeb47-28f1-4045-b955-052a6305dfad" />
 Documents positioned by their topic assignments
-
-## Installation
-```bash

@@ -9,7 +9,7 @@ More than **40,000+ ArXiv NLP research papers** were analyzed, discovering **161
 ## Topic Representation Comparison
 
 ### Overview
-I compared four different topic representation models on the same clustered documents to evaluate their effectiveness in generating interpretable and meaningful topic keywords.
+I compared four different topic representation models to evaluate their effectiveness in generating interpretable and meaningful topic keywords.
 
 ### 1. Baseline: TF-IDF Representation
 Traditional frequency-based approach that identifies keywords based on their importance within topics relative to the entire dataset.

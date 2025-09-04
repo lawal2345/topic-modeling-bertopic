@@ -45,7 +45,7 @@ Balances relevance with diversity (diversity=0.5), preventing redundant keywords
 | **4** | translation \| nmt \| machine \| neural \| bleu | nmt \| bleu \| multilingual \| parallel \| source | Technical diversity |
 
 ### 4. Generative AI (Flan-T5)
-Uses language model to generate natural language descriptions of topics based on constituent documents.
+Uses language model to generate natural language descriptions of topics based on the dataset.
 
 | Topic | Original Keywords | Generative Description | Analysis |
 |-------|------------------|------------------------|----------|
